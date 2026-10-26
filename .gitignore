@@ -1,0 +1,11 @@
+# Disposable practice repositories keep their own local Git histories.
+/labs/
+
+# Local Python files and credentials
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
